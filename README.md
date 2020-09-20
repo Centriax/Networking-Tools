@@ -1,9 +1,23 @@
-# ServerAndClient
-Simple Server and Client Connection 
+# Networking-Tools
 
-This is my first attempt at trying to understand sockets and how messages travel to client and so.
-Any feedback would be greatly appreciated
 
-Note: This only works on Local networks, tweaks will have to be made to be used in a public network fashion
+░█████╗░███████╗███╗░░██╗████████╗██████╗░██╗░█████╗░██╗░░██╗
+██╔══██╗██╔════╝████╗░██║╚══██╔══╝██╔══██╗██║██╔══██╗╚██╗██╔╝
+██║░░╚═╝█████╗░░██╔██╗██║░░░██║░░░██████╔╝██║███████║░╚███╔╝░
+██║░░██╗██╔══╝░░██║╚████║░░░██║░░░██╔══██╗██║██╔══██║░██╔██╗░
+╚█████╔╝███████╗██║░╚███║░░░██║░░░██║░░██║██║██║░░██║██╔╝╚██╗
+░╚════╝░╚══════╝╚═╝░░╚══╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝╚═╝░░╚═╝╚═╝░░╚═╝
 
-The tutorial I used: https://www.youtube.com/watch?v=3QiPPX-KeSc
+Tools that have be created through tutorials and altered for my own use.
+Any feedback on how I could improve these tools or provide reasources on relevant topics that could improve my knowledge on Networking and Software development
+
+Tutorials Include:
+1.https://www.youtube.com/watch?v=3QiPPX-KeSc
+2.https://www.youtube.com/watch?v=FGdiSJakIS4&t=2593s
+
+████████╗██╗░░██╗░█████╗░███╗░░██╗██╗░░██╗  ██╗░░░██╗░█████╗░██╗░░░██╗
+╚══██╔══╝██║░░██║██╔══██╗████╗░██║██║░██╔╝  ╚██╗░██╔╝██╔══██╗██║░░░██║
+░░░██║░░░███████║███████║██╔██╗██║█████═╝░  ░╚████╔╝░██║░░██║██║░░░██║
+░░░██║░░░██╔══██║██╔══██║██║╚████║██╔═██╗░  ░░╚██╔╝░░██║░░██║██║░░░██║
+░░░██║░░░██║░░██║██║░░██║██║░╚███║██║░╚██╗  ░░░██║░░░╚█████╔╝╚██████╔╝
+░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝  ░░░╚═╝░░░░╚════╝░░╚═════╝░
